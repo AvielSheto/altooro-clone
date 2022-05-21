@@ -1,0 +1,121 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+header {
+  background: #140c3c;
+  background: radial-gradient(circle, #140c3c 0%, #060e17 100%);
+}
+
+header .header-main .header-main-input {
+  border: solid 1px #e3d3d3;
+  border-radius: 5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 10px;
+}
+
+header .header-main .header-main-input input {
+  background: rgba(17, 11, 50, 0.285);
+}
+
+header .header-main .header-main-input button {
+  border: none;
+  background-color: #4d1d94;
+}
+
+main {
+  background-color: #10213d;
+}
+
+main .main-cases {
+  background-color: #24334f;
+  border-radius: 28px;
+}
+
+main .main-choose .main-choose-center .main-choose-right h3 {
+  color: #4d1d94;
+}
+
+main .main-choose .main-choose-center .main-choose-right button {
+  border: none;
+  background-color: #4d1d94;
+}
+
+main .main-scale h3 {
+  color: #4d1d94;
+}
+
+main .main-scale button {
+  border: none;
+  background-color: #4d1d94;
+}
+
+main .main-training .main-training-right h3 {
+  color: #4d1d94;
+}
+
+main .main-training .main-training-right button {
+  border: none;
+  background-color: #4d1d94;
+}
+
+main .main-distinction {
+  background-color: #0002057c;
+}
+
+main .main-distinction .box {
+  background-color: #293748;
+}
+
+main .main-pricing h1 {
+  color: #4d1d94;
+}
+
+main .main-pricing .main-pricing-box {
+  background-color: #293748;
+}
+
+main .main-pricing .main-pricing-box button {
+  background-color: #4d1d94;
+  border-radius: 5px;
+}
+
+main .main-privte {
+  background-color: #4d1d94;
+  border-radius: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 10px;
+}
+
+main .main-privte .main-privte-input {
+  border: solid 1px rgba(227, 211, 211, 0.54);
+  border-radius: 5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 10px;
+}
+
+main .main-privte .main-privte-input input {
+  background: rgba(17, 11, 50, 0);
+}
+
+main .main-privte .main-privte-input button {
+  border: none;
+  color: #4d1d94;
+}
+/*# sourceMappingURL=style.css.map */

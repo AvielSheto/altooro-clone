@@ -1,0 +1,21 @@
+header {
+    background: rgb(20,12,60);
+    background: radial-gradient(circle, rgba(20,12,60,1) 0%, rgba(6,14,23,1) 100%);
+    .header-main {        
+        .header-main-input {
+            border: solid 1px rgb(227, 211, 211);
+            border-radius: 5px;
+            display: flex;
+            justify-content: space-between;
+            padding: 10px;
+
+            input{
+                background: rgba(17, 11, 50, 0.285);   
+            }
+            button {
+                border: none;
+                background-color: #4d1d94;
+            }
+        }
+    }
+}
