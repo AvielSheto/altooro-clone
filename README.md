@@ -1,2 +1,8 @@
 # altooro-clone
-altooro mock-up built,  used with : html, scss, bootstarp 
+
+Practicing using bootstrap by doing a mockup of the altooro site. 
+
+## Built With
+- html
+- css
+- bootstrap
